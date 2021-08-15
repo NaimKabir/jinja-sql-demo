@@ -2,6 +2,8 @@
 
 A small proof of concept for how to set up a Jinja-powered codebase for an analytics org.
 
+Designed to be paired with this [thesis article on Medium](https://towardsdatascience.com/jinja-sql-%EF%B8%8F-7e4dff8d8778?sk=2e8e678c133ec42f7ae8427f04a97295).
+
 **Structure**
 
 Files in the `macros` directory are templates for SQL queries.
